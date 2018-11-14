@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Trailhead Quiz Extractor",
-    "version": "0.0.0",
-    "description": "Show quiz and options in plain text format in a Trailhead unit",
+    "name": "Salesforce Trailhead Quiz Extractor",
+    "version": "0.0.2",
+    "description": "Show quiz and options in plain text format in a Salesforce Trailhead unit",
     "author": "Shun Kosaka",
     "background" : {
       "scripts" : ["background.js"],
